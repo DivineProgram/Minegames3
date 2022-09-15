@@ -24,6 +24,11 @@ The inside of the world is easy to navigate in-game, with instructions and guida
 Minegames 1 and 2 were lost due to errors with sorting out my storage; these worlds had no backup.
 I have had thoughts to remaster these maps. However, I haven't gotten around to this.
 
+# Version Compatibility
+
+### Version 3.11.2 was intended for Minecraft Bedrock v1.18.31 and above
+### Version 3.12.1 was intended for Minecraft Bedrock v1.19.20 and above
+
 # Development
 I've estimated that around **1500 command blocks** have been placed inside the world, each holding a single line of code. Some of the lines of code are extremely long, to condense all the code into a single line, whereas others are simpler.
 
