@@ -1,5 +1,5 @@
 # Minegames3
-#### Minegames 3 was a Minecraft world, programmed, developed and designed from scratch since March 2020.
+***Minegames 3 was a Minecraft world, programmed, developed and designed from scratch since March 2020.***
 
 # What is Minegames?
 Minegames was initially a world where I could create minigames using the in-game coding system *command blocks*.
@@ -43,7 +43,7 @@ The world has been developed since its creation on the **22nd March 2020**. The 
 Although only 12 minigames exist in the world, technically a total of 17 have actually been developed for Minegames 3. Three of those were lost due to personal imcompetance and two were rebuilt when they were remastered, often due to their original version being sub-par compared to other minigames. That means a total of 5 minigames were developed by never used.
 
 # Images
-### These images are not entirely up-to-date and include third-party shaders
+***These images are not entirely up-to-date and include third-party shaders***
 ![Thumbnail](https://user-images.githubusercontent.com/113607171/190509670-24c0564d-03bd-4d42-b052-c5bc780d91bb.png)
 
 ![Lobby](https://user-images.githubusercontent.com/113607171/190509565-d1612fe8-bfe7-467d-abf2-b23b93853963.png)
