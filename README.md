@@ -11,7 +11,7 @@ There are a total of 12 minigames in the newest update. Each minigame was made t
 
 The world also includes a shop, where you can use points from winning minigames to get cosmetics. There is also an *info centre*, where there's information on the world, credits, a fully documented changelog, and settings.
 
-***I can confirm Minegames 3 is still being occasionally updated***
+***Minegames 3 has not been updated since late 2022 and has not been touched since***
 
 ## How do I start playing it?
 Anyone who owns Minecraft Bedrock can download one of the files, open it in Minecraft if using a *.mcworld* file, or move it to the minecraftWorlds folder if using a *.zip* file, and then play on the world in-game. **The map is highly recommended to be played with at least two players.**
